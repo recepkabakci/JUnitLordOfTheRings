@@ -1,4 +1,4 @@
-package com.bilgeadam.model;
+package com.recepkabakci.model;
 
 public class TolkienCharacter {
 	

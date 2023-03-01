@@ -1,5 +1,6 @@
 package service;
 
+import static com.recepkabakci.model.Race.HOBBIT;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.List;
@@ -10,13 +11,11 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 
-import static com.bilgeadam.model.Race.HOBBIT;
-
-import com.bilgeadam.model.Movie;
-import com.bilgeadam.model.Race;
-import com.bilgeadam.model.Ring;
-import com.bilgeadam.model.TolkienCharacter;
-import com.bilgeadam.service.DataService;
+import com.recepkabakci.model.Movie;
+import com.recepkabakci.model.Race;
+import com.recepkabakci.model.Ring;
+import com.recepkabakci.model.TolkienCharacter;
+import com.recepkabakci.service.DataService;
 
 class DataServiceTest {
 

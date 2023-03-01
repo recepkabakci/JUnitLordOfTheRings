@@ -1,4 +1,4 @@
-package com.bilgeadam.service;
+package com.recepkabakci.service;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,10 +6,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.bilgeadam.model.Movie;
-import com.bilgeadam.model.Race;
-import com.bilgeadam.model.Ring;
-import com.bilgeadam.model.TolkienCharacter;
+import com.recepkabakci.model.Movie;
+import com.recepkabakci.model.Race;
+import com.recepkabakci.model.Ring;
+import com.recepkabakci.model.TolkienCharacter;
 
 public class DataService {
 	
